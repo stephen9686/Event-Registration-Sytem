@@ -1,4 +1,4 @@
-# Event-Registration-Sytem
+
 # Event Registration System 📅
 
 This GitHub repository contains an Event Registration System developed for a class assessment. The project utilizes HTML 5, PHP, and server-side JavaScript validation. Future updates will include the addition of client-side validation for enhanced user experience.
